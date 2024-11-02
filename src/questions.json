@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "question": "What will be the result of '5 + '5' in JavaScript?",
+        "options": ["10", "'55'", "'5'", "NaN"],
+        "correctOption": "'55'"
+    },
+    {
+        "id": 2,
+        "question": "Which of the following is used to style web pages?",
+        "options": ["HTML", "CSS", "JavaScript", "Python"],
+        "correctOption": "CSS"
+    },
+    {
+        "id": 3,
+        "question": "Which language is primarily used for client-side scripting on the web?",
+        "options": ["PHP", "Python", "JavaScript", "Java"],
+        "correctOption": "JavaScript"
+    },
+    {
+        "id": 4,
+        "question": "What is the correct file extension for Python files?",
+        "options": [".java", ".py", ".js", ".html"],
+        "correctOption": ".py"
+    },
+    {
+        "id": 5,
+        "question": "Which symbol is used to start a comment in JavaScript?",
+        "options": ["//", "#", "<!--", "%"],
+        "correctOption": "//"
+    },
+    {
+       
+        "id": 6,
+        "question": "Which operator is used to assign a value to a variable?",
+        "options": ["=", "==", "===", "=>"],
+        "correctOption": "="
+    },
+    {
+        "id": 7,
+        "question": "Which data structure is commonly used to store key-value pairs?",
+        "options": ["Array", "Queue", "Stack", "Dictionary"],
+        "correctOption": "Dictionary"
+    },
+    {
+        "id": 8,
+        "question": "What will be the output of 'console.log(0.1 + 0.2 === 0.3)'?",
+        "options": ["true", "false", "undefined", "NaN"],
+        "correctOption": "false"
+    },
+    {
+        "id": 9,
+        "question": "Which SQL statement is used to retrieve data from a database?",
+        "options": ["SELECT", "GET", "FETCH", "RETRIEVE"],
+        "correctOption": "SELECT"
+    },
+    {
+        "id": 10,
+        "question": "Which keyword is used to declare a variable in JavaScript?",
+        "options": ["var", "int", "float", "declare"],
+        "correctOption": "var"
+    }
+]
